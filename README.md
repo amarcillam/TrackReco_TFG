@@ -1,7 +1,7 @@
 # TrackReco_TFG
 
 
-Este proyecto está enfocado en la reconstrucción de trayectorias de partículas en el detector CMS del LHC utilizando Redes Neuronales Gráficas (GNN). La metodología implementada aprovecha las propiedades estructurales de los datos de los hits en el tracker para construir grafos que representan posibles trayectorias, y entrena una GNN para predecir las conexiones entre hits y reconstruir así las trayectorias completas de las partículas. 
+Este proyecto es un Trabajo de Fin de Grado enfocado en la reconstrucción de trayectorias de partículas en el detector CMS del LHC utilizando Redes Neuronales Gráficas (GNN). La metodología implementada aprovecha las propiedades estructurales de los datos de los hits en el tracker para construir grafos que representan posibles trayectorias, y entrena una GNN para predecir las conexiones entre hits y reconstruir así las trayectorias completas de las partículas. 
 
 ---
 
